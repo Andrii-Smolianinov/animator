@@ -10,7 +10,7 @@ align-items: center;
   transition: all 150ms ease-out;
 
 span {
-    width: 500px;
+    width: 525px;
     height: 30px;
     display: inline-block;
     text-align: center;
